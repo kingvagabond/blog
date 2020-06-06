@@ -6,4 +6,4 @@
 
 2. Windows平台下node.js做typescript编程的项目初始化
 
-3. Windows平台下Python项目初始化
+3. [Windows平台下Python项目初始化](python.md)
