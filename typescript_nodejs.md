@@ -46,6 +46,8 @@ welcomePerson(james);
 "outDir": "./dist",
 ```
 
+![](2020-06-07-02-55-36.png)
+
 然后在Terminal窗口命令行输入命令"tsc"，即可看到app.ts被编译成app.js，保存在输出的dist子目录下。
 
 上面就是完整的typescript与node.js编程项目的基建介绍。有了这个基础知识，我们就可以做编程工作了。对于vscode下的调试，将在新一篇中介绍。
