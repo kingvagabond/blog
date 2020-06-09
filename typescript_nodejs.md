@@ -1,4 +1,4 @@
-# Windows下Typescript的nodejs项目基建
+# node.js做typescript编程的vs code配置
 
 现在主流的javascript三大framework里，react与vue越来越接近，而angular渐渐淡出。另外，尽量少使用这些framework的需求开始增强。那么在Windows下纯粹使用typescript与nodejs的项目框架，是个有趣的需求。很多时候想用typescript编一个实用的本地程序，应该怎么做呢？
 
