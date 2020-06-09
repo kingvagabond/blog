@@ -1,4 +1,4 @@
-# Window下C/C++开发项目的基建
+# C/C++编程vs code的配置
 
 Windows下C/C++项目的开发，现在也能用vs code来做了。需要一点点基建。
 
