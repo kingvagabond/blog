@@ -20,4 +20,4 @@
 
 4. [Python编程的vs code配置](python.md)
 
-5. [C/C++项目编程的vs code配置](c.md)
+5. [C/C++编程的vs code配置](c.md)
