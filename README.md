@@ -14,10 +14,10 @@
 
 1. 一个细节强迫症患者推荐的Windows开发环境的常用工具
 
-2. Windows平台下git bash命令行的配置
+2. git bash命令行的配置
 
-3. Windows平台下node.js做typescript编程的vs code配置
+3. [node.js做typescript编程的vs code配置](python_typescript.md)
 
-4. [Windows平台下Python编程的vs code配置](python.md)
+4. [Python编程的vs code配置](python.md)
 
-5. Windows平台下C/C++项目编程的vs code配置
+5. [C/C++项目编程的vs code配置](c.md)
