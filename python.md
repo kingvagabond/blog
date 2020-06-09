@@ -1,4 +1,4 @@
-# Window下Python开发项目的基建
+# Python编程的vs code配置
 
 Windows下Python项目看起来不需要什么基建，但其实还是要的。这是因为Python环境跟Windows不是那么顺条，如果是Linux或者Mac就舒服一些。
 
