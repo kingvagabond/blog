@@ -16,7 +16,7 @@
 
 2. git bash命令行的配置
 
-3. [node.js做typescript编程的vs code配置](python_typescript.md)
+3. [node.js做typescript编程的vs code配置](typescript_nodejs.md)
 
 4. [Python编程的vs code配置](python.md)
 
